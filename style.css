@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+    background-position: center;
+  
+}
+
+#title{
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+text-shadow: 10px 5px 10px lightgreen;
+}
+
+.link{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-shadow:7px 2px 6px rgb(0, 0, 0);
+    background-color: rgb(144, 198, 144);
+    border-radius: 20px;
+    width: 30%;
+   
+}
